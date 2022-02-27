@@ -1,0 +1,41 @@
+
+          
+            .img-logo
+            {
+                margin-top: 10%;
+                left: 40%;
+                right: 30%;
+               position: absolute;
+               
+            }
+            body
+            {
+                width:100%;
+                overflow-x: hidden;
+            }
+            div{
+                border: 0px solid black;
+                border-collapse: collapse;
+            }
+            .clg-building
+            {
+                left: 0;
+            }
+
+            /*Heights of div*/
+            .main-page
+            {
+                height :100%;
+            }
+            .common-page
+            {
+                height:82%;
+            }
+            .img-logo
+            {
+                width:20%;
+                height:40%;
+            }
+            
+            
+        
