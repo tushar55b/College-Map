@@ -12,6 +12,8 @@ import math
 import pymongo
 from pymongo import MongoClient
 
+print("XYZ")
+
 cluster = MongoClient("mongodb+srv://FindDsc:DsC595851@cluster0.3euxl.mongodb.net/FindDscDb?retryWrites=true&w=majority")
 db = cluster['FindDscDb']
 collection_nodes = db['Nodes']
